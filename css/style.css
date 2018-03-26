@@ -1,0 +1,57 @@
+html {
+	background: url("https://s26.postimg.org/6jhwnwznd/bunny-care-101-fb-119905630.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body {
+	text-align: center;
+}
+
+h1 {
+	font-family: Monoton;
+	font-size: 70px;
+	margin: 0.2em;
+}
+
+h2 {
+	margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+	margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+	border: 1px solid black;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+
+tr {
+	height: 20px;
+}
+
+td {
+	width: 20px;
+	background-color: rgba(236, 217, 198, 0.4);
+}
+
+input[type=number] {
+	width: 6em;
+}
+
+#instructions {
+	width: 350px;
+	text-align: left;
+	font-size: 16px;
+	margin-left: auto;
+	margin-right: auto;
+}
